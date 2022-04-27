@@ -1,0 +1,39 @@
+Automation Engineer
+-JAVA
+-HTML
+-UI(User Interface)-->Front End
+   *Selenium Webdriver---You need Java knowledge
+   *Cucumber Framework- Gherkin Language
+-Back End Testing
+   *API(RestAssured Library)
+   *DataBase(SQL based)- JDBC(Java DataBase Connectivity)
+-Version Control System: GIT--->Github
+-CI(continous intergration) Tools: Jenkins
+-Project Management, Team Management, Bug Management: JIRA
+
+ArrayList:
+
+  -Dynamic Arrays: at the background it using Array
+  -Ordered collection of data of the same type
+  -It only accepts objects
+  -We have to use Wrapper Classes
+  -Ordered, index based
+
+ArrayList Methods:
+
+   -How to add element: add(value)
+   -add(index, value),
+   -how to read: get(index)
+   -size: returns the count of the elements
+
+OBJECTS:
+
+   *Attribute (state of the object): Data fields, Instant Variables,
+   *Behaviour(Actions): Methods, instance methods
+
+CLASSES:
+
+   *Templates, blueprints of objects
+   *Instance variables: every object of that class has it's own value
+   *Instance methods: every object of that class has it's onw implementation
+

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day14_LiveSession">
+    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day43">
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day43_Abstraction/car/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProgrammingLive/src/week14/brower_PagesInheritance/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week14/brower_PagesInheritance/TestCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,7 @@
   </component>
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -71,7 +72,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaProgramming" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
@@ -86,7 +87,7 @@
       <recent name="C:\Users\sorin\IdeaProjects\Git_Practice\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Constructor_vs_StaticBlock">
+  <component name="RunManager" selected="Application.Throw_vs_Throws">
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test2.B" />
       <module name="JavaPractice" />
@@ -165,19 +166,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TV_Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceByHalim.TV_Object" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practiceByHalim.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test2.Test" />
       <module name="JavaPractice" />
@@ -204,13 +192,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Throw_vs_Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_Abstraction.Throw_vs_Throws" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day43_Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Throw_vs_Throws" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestCall" />
         <item itemvalue="Application.LogIn" />
         <item itemvalue="Application.B" />
-        <item itemvalue="Application.TV_Object" />
       </list>
     </recent_temporary>
   </component>
@@ -263,6 +264,10 @@
       <workItem from="1649884926052" duration="43000" />
       <workItem from="1649885036095" duration="7000" />
       <workItem from="1649926801873" duration="11217000" />
+      <workItem from="1650571612791" duration="524000" />
+      <workItem from="1650572398785" duration="362000" />
+      <workItem from="1650737592752" duration="57000" />
+      <workItem from="1650788939893" duration="4109000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -551,7 +556,42 @@
       <option name="project" value="LOCAL" />
       <updated>1650127049002</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="day14_LiveSession">
+      <created>1650737613943</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1650737613943</updated>
+    </task>
+    <task id="LOCAL-00043" summary="day14_LiveSession">
+      <created>1650737635533</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1650737635533</updated>
+    </task>
+    <task id="LOCAL-00044" summary="day43">
+      <created>1650790104260</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1650790104260</updated>
+    </task>
+    <task id="LOCAL-00045" summary="day43">
+      <created>1650790137325</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1650790137325</updated>
+    </task>
+    <task id="LOCAL-00046" summary="day43">
+      <created>1650850764215</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1650850764215</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +630,8 @@
     <MESSAGE value="day39_Recap--&gt;MethodOverloading" />
     <MESSAGE value="day40_Recap--&gt;Protected Access Modifier" />
     <MESSAGE value="day14_LiveSession" />
-    <option name="LAST_COMMIT_MESSAGE" value="day14_LiveSession" />
+    <MESSAGE value="day43" />
+    <option name="LAST_COMMIT_MESSAGE" value="day43" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
