@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d785b7f7-01c4-4877-acb7-6360c1e7f2af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week01/CastingPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week01/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week01/StringManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week01/StringManipulatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week01/StringPractice01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/AnimalSpecies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/ArrayListExamplesWithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/CustomMethodsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/NoahsArk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/GroceryListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/GroseryListMainStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/OnSaleItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week04/TJMaxx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/BookTask/AudioBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/BookTask/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/BookTask/EBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/CryptoTask/Bitcoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/CryptoTask/Cardano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/CryptoTask/CryptoToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/CryptoTask/Doge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/CryptoTask/Ethereum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/CryptoTask/XPR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/EmployeeTask/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/EmployeeTask/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/EmployeeTask/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/EmployeeTask/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/EmployeeTask/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/EmployeeTask/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/PhoneTask/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/PhoneTask/Nokia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/PhoneTask/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/PhoneTask/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/PhoneTask/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/PlanetTask/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/PlanetTask/Mercury.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/PlanetTask/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/PlanetTask/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/PlanetTask/Venus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/ScrumTask/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/ScrumTask/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/ScrumTask/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/ScrumTask/ScumTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day36_Inheritance/ScrumTask/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day38_MethodOverriding/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day38_MethodOverriding/animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day38_MethodOverriding/animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day38_MethodOverriding/animal/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day38_MethodOverriding/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day38_MethodOverriding/browserTask/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day38_MethodOverriding/browserTask/ChromeBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day38_MethodOverriding/browserTask/Firefox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day38_MethodOverriding/browserTask/Opera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day38_MethodOverriding/browserTask/Safari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Crocodile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Dolphin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/FriendlyAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/AnimalTask/WildAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/BlackBerry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/GooglePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/Nokia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/PersonalComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/day39_Inheritance/deviceTask/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/src/week15/ErrorExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/src/week15/MultiCatchExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/src/week15/RunTimeErrorExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/src/week15/TryCatchExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/src/week15/checkedExceptions/CheckedExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/src/week15/checkedExceptions/ReadFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/src/week15/checkedExceptions/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/src/week15/customExceptions/BreakTimeExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/src/week15/customExceptions/CustomExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLive/src/week15/customExceptions/InsufficientBalanceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_16_04_2022_16_57__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_16_04_2022_16_57__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_16_04_2022_17_37__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_Update_at_16_04_2022_17_37__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProgrammingLive/out/production/JavaProgrammingLive/week08/CharArrayTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgrammingLive/out/production/JavaProgrammingLive/week08/CharArrayTwo.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28D1husjll84t9FCSwQWUtIYQNZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d785b7f7-01c4-4877-acb7-6360c1e7f2af" name="Changes" comment="" />
+      <created>1650736465570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650736465570</updated>
+      <workItem from="1650736466836" duration="1112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
