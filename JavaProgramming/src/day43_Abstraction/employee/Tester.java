@@ -15,4 +15,7 @@ public class Tester extends Employee{
     public void sleep() {
         System.out.println(getName()+getJobTitle()+" is sleeping only 6 hours");
     }
+
+    public void bugReport() {
+    }
 }

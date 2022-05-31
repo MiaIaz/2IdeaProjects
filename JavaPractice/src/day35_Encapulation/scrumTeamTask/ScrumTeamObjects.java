@@ -1,4 +1,5 @@
 package day35_Encapulation.scrumTeamTask;
+/*
 
 import day31_Constructor.ScrumTask.Developer;
 import day31_Constructor.ScrumTask.ScrumTeam;
@@ -52,9 +53,11 @@ public class ScrumTeamObjects {
         System.out.println(scrum);
 
     }
+ }
+ */
 
 
-}
+
 /*
 create a class called MyScrumTeam:
  1. create an array of Testers and add the testers from your group

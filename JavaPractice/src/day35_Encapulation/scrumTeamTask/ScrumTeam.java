@@ -1,7 +1,7 @@
 package day35_Encapulation.scrumTeamTask;
 
-import day31_Constructor.ScrumTask.Developer;
-import day31_Constructor.ScrumTask.Tester;
+import day36_Inheritance.ScrumTask.Developer;
+import day36_Inheritance.ScrumTask.Tester;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -86,14 +86,16 @@ public class ScrumTeam {
     public void addDevelopers(Developer[] developers){
         devopsList.addAll(Arrays.asList(developers));
     }
-
-    public void removeTester(int employeeID){
+/*
+ public void removeTester(int employeeID){
         testersList.removeIf(p -> p.getEmployeeID(employeeID)==employeeID);
     }
 
     public void removeDeveloper(int employeeID){
         devopsList.removeIf(p -> p.getEmployeeID(employeeID)==employeeID);
     }
+ */
+
 
     public String toString() {
         return "ScrumTeam{" +
