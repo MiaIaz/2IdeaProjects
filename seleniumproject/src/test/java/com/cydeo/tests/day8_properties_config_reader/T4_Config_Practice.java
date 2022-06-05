@@ -28,13 +28,15 @@ public class T4_Config_Practice {
     @Test
     public void google_search_test(){
         //Driver.getDriver() --> driver
-
+/*
         //Driver.getDriver().get("https://www.google.com");
         
         Driver.getDriver().get("https://www.google.com/%22");
-        WebElement iAgree = By.xpath("//button[@id=spchx]/div").findElement(Driver.getDriver());
+       // WebElement iAgree = By.xpath("//button[@id=spchx]/div").findElement(Driver.getDriver());
         iAgree.click();
-        
+
+
+ */
         //3- Write “apple” in search box
         WebElement googleSearchBox = Driver.getDriver().findElement(By.xpath("//input[@name='q']"));
 
