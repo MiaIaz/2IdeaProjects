@@ -26,12 +26,12 @@ public class T7_Scroll_JSExecutor {
 
         //3- Scroll down to “Cydeo” link
         BrowserUtils.sleep(3);
-        js.executeScript("\"arguments[0].scrollIntoView(true)\"",cydeoLink);
+        js.executeScript("arguments[0].scrollIntoView(true)",cydeoLink);
 
 
         //4- Scroll up to “Home” link
         BrowserUtils.sleep(3);
-        js.executeScript("\"arguments[0].scrollIntoView(true)\"", homeLink);
+        js.executeScript("arguments[0].scrollIntoView(true)", homeLink);
 
         //5- Use below provided JS method only
 
