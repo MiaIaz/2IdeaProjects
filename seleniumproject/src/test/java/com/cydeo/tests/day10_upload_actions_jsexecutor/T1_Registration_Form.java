@@ -1,11 +1,13 @@
 package com.cydeo.tests.day10_upload_actions_jsexecutor;
 
+import com.cydeo.utilities.BrowserUtils;
 import com.cydeo.utilities.ConfigurationReader;
 import com.cydeo.utilities.Driver;
 import com.github.javafaker.Faker;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class T1_Registration_Form {
@@ -66,10 +68,25 @@ public class T1_Registration_Form {
         departmentDropdown.selectByIndex(faker.number().numberBetween(1,9));
 
         //12.Select Job Title
+        WebElement jobTitle =   Driver.getDriver().findElement(By.xpath("//select[@name='job_title']"));
+        Select dropdown2 = new Select(jobTitle);
+        dropdown2.selectByVisibleText("QA");
+
         //13.Select programming language from checkboxes
+        WebElement dropdownProgramLanguage = Driver.getDriver().findElement(By.xpath("(//input[@type='checkbox'])[2]"));
+        dropdownProgramLanguage.click();
+
         //14.Click to sign up button
+        WebElement signInButton = Driver.getDriver().findElement(By.id("wooden_spoon"));
+        signInButton.click();
+        BrowserUtils.sleep(3);
+
         //15.Verify success message “You’ve successfully completed registration.” is
         //displayed.
+        String actual = Driver.getDriver().findElement(By.tagName("p")).getText();
+        String expected="You've successfully completed registration!";
+        Assert.assertEquals(actual,expected,"actual and expected did not match");
+
 
     }
 
