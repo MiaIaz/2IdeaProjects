@@ -1,4 +1,4 @@
-package com.cydeo.tests.day10_upload_actions_jsexecutor;
+package com.cydeo.tests.day11_actions_jsexecutor_practice;
 
 import com.cydeo.utilities.BrowserUtils;
 import com.cydeo.utilities.Driver;
@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
-public class T4_5_ScrollPractice {
+public class ActionsPractices {
 
     @Test
     public void scroll_practice_task1() {
@@ -33,7 +33,8 @@ public class T4_5_ScrollPractice {
         //Driver.getDriver().quit();
         Driver.getDriver().close();
 
-        }
-
     }
+
+}
+
 
