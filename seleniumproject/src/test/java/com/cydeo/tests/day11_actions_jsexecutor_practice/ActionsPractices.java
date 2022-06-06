@@ -12,7 +12,7 @@ public class ActionsPractices {
 
     @Test
     public void scroll_practice_task1() {
-        //1- Open a chrome browser
+        //1- Open a Chrome browser
         //2- Go to: https://practice.cydeo.com/
         Driver.getDriver().get("https://practice.cydeo.com/");
 
@@ -31,10 +31,33 @@ public class ActionsPractices {
         actionsDown.sendKeys(Keys.PAGE_UP, Keys.PAGE_UP).perform();
 
         //Driver.getDriver().quit();
-        Driver.getDriver().close();
+        //Driver.getDriver().close();
+        Driver.closeDriver();
 
     }
+@Test
+    public void test2(){
+        Driver.getDriver().get("https://practice.cydeo.com/");
+    Driver.closeDriver();
+}
+
+    @Test
+    public void test3(){
+        Driver.getDriver().get("https://practice.cydeo.com/");
+        Driver.closeDriver();
+    }
+
+    @Test
+    public void test4(){
+        Driver.getDriver().get("https://practice.cydeo.com/");
+        Driver.closeDriver();
+    }
+
+
+
+
 
 }
+
 
 
